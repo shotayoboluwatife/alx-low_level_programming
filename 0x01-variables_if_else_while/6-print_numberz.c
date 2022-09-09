@@ -1,14 +1,14 @@
 #include <stdio.h>
 /**
  * main - main funcrtion/entry point
- * Description: Printts all single digit numbers of base 10 starting from 0 without using chat datatype
+ * Description: Printts all single digit numbers of base10
  * Return: 0
  */
 int main(void)
 {
 	int k = 0;
 
-	while (k < 9)
+	while (k < 10)
 	{
 		/*converting to ASCII representation*/
 		putchar(k + '0');
