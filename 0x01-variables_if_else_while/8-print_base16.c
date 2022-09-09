@@ -7,7 +7,9 @@
 int main(void)
 {
 	int x;
+
 	int y;
+
 	for (x = 0; x < 10; x++)
 	{
 		/*converting to ascii rep*/
