@@ -24,13 +24,12 @@ int main(void)
 				{
 					putchar(',');
 					putchar(' ');
-				}	
+				}
 			}
-			d2++;	
-		}	
+			d2++;
+		}
 		d1++;
 	}
 	putchar('\n');
-
 	return (0);
 }
