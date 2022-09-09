@@ -13,12 +13,12 @@ int main(void)
 	while (d1 < 10)
 	{
 		d2 = 0;
-		while(d2 < 10)
+		while (d2 < 10)
 		{
 			if (d1 != d2 && d1 < d2)
 			{
 				putchar(d1 + 48);
-				putchar(d2 + 46);
+				putchar(d2 + 48);
 
 				if (d1 + d2 != 17)
 				{
