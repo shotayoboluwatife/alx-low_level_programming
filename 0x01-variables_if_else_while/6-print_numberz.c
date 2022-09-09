@@ -4,7 +4,7 @@
  * Description: Printts all single digit numbers of base 10 starting from 0 without using chat datatype
  * Return: 0
  */
-int main (void)
+int main(void)
 {
 	int k = 0;
 
@@ -16,5 +16,5 @@ int main (void)
 	}
 	putchar('\n');
 
-	return(0);
+	return (0);
 }
