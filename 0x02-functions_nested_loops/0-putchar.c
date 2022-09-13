@@ -13,7 +13,7 @@ int main(void)
 	/* so each letter would be printed 1by1*/
 	for (c = 0; c < 8; c++)
 	{
-		_putchar(word_array[0]);
+		_putchar(word_array[c]);
 	}
 	_putchar('\n');
 	return (0);
